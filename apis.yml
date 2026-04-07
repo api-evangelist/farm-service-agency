@@ -5,8 +5,7 @@ url: >2-
 apis:
   - aid: farm-service-agency:farm-service-agency
     name: Farm Service Agency
-    tags:
-      - API
+    tags: []
     humanURL: https://www.fsa.usda.gov/online-services/fsa-online-data-resources
     properties:
       - url: https://www.fsa.usda.gov/online-services/fsa-online-data-resources
@@ -19,8 +18,8 @@ apis:
       Services Agency (FSA) data.
 name: Farm Service Agency
 tags:
-  - Federal Government
   - Agriculture
+  - Federal Government
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
