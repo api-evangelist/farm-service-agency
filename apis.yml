@@ -2,6 +2,9 @@ aid: farm-service-agency
 url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/farm-service-agency/refs/heads/main/apis.yml
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/usda-farm-service-agency
 apis:
   - aid: farm-service-agency:farm-service-agency
     name: Farm Service Agency
