@@ -3,6 +3,8 @@ url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/farm-service-agency/refs/heads/main/apis.yml
 common:
+  - type: DomainSecurity
+    url: security/farm-service-agency-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/usda-farm-service-agency
 apis:
