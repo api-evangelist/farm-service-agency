@@ -12,6 +12,10 @@ apis:
     name: Farm Service Agency
     tags:
       - Agriculture
+      - Federal-Government
+      - Open Data
+    tags_raw:
+      - Agriculture
       - Federal Government
       - Open Data
     humanURL: https://www.fsa.usda.gov/online-services/fsa-online-data-resources
@@ -31,6 +35,9 @@ apis:
       No public REST/JSON API is currently published.
 name: Farm Service Agency
 tags:
+  - Agriculture
+  - Federal-Government
+tags_raw:
   - Agriculture
   - Federal Government
 type: Index
