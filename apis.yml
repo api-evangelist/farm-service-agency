@@ -68,7 +68,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/farm-servi
 access: 3rd-Party
 created: '2024-12-03'
 modified: '2026-04-28'
-position: Consumer
+position: Consuming
 description: >-
   As directed by the OPEN (Open, Public, Electronic, and Necessary) Government Data
   Act and through its commitment to United States agriculturalists and interested
