@@ -12,12 +12,13 @@ apis:
     name: Farm Service Agency
     tags:
       - Agriculture
-      - Federal-Government
+      - Federal Government
       - Open Data
     tags_raw:
       - Agriculture
       - Federal Government
       - Open Data
+      - Federal-Government
     humanURL: https://www.fsa.usda.gov/online-services/fsa-online-data-resources
     properties:
       - url: https://www.fsa.usda.gov/online-services/fsa-online-data-resources
@@ -36,10 +37,11 @@ apis:
 name: Farm Service Agency
 tags:
   - Agriculture
-  - Federal-Government
+  - Federal Government
 tags_raw:
   - Agriculture
   - Federal Government
+  - Federal-Government
 type: Index
 deliveryModel:
   model: unknown
